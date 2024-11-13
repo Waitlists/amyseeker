@@ -5,3 +5,6 @@ proof of concept mod for https://github.com/funtimes909/serverseekerv2 hzqp.xyz/
 # To do
 - [ ] Add country flags
 - [ ] Discord Auth Screen
+- [ ] Have amy make an api to use
+- [ ] Streamsniping
+- [ ] Rendering features.
